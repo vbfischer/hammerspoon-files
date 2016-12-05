@@ -7,7 +7,6 @@ mod.config={
 local k = nil
 
 pressedF18 = function()
-
   k:enter()
 end
 
