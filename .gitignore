@@ -7,6 +7,9 @@ logs
 *.log
 npm-debug.log*
 
+# Hammerspoon Data
+data
+
 # Runtime data
 pids
 *.pid
@@ -79,5 +82,3 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
-
-
